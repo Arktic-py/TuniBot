@@ -1,4 +1,4 @@
-#🧨 Tuny-bot!
+# 🧨 Tuny-bot!
  *The true Unity Discord bot*
     
 ##What is Tunybot ❔
