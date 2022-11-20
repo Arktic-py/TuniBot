@@ -29,7 +29,7 @@ class CustomBot(commands.Bot):
 				filename = os.path.basename(file).split('.')[0]
 				if not filename.startswith('_'):
 					time = datetime.now().strftime('%I:%M:%S %p')
-					cmds = list(inspect.getmembers(importlib.import_module(f'commands.{dirname}.{filename}'), predicate=isCommand)) #credit to connektious for the code
+					cmds = list(inspect.getmembers(importlib.import_module(f'commands.{dirname}.{filename}'), predicate=isCommand)) 
 					if len(cmds) > 1 or any(isGroup(cmd) for cmd in cmds):
 						main = filterGroup(cmds)
 						if main is None:
@@ -55,3 +55,8 @@ class CustomBot(commands.Bot):
 
 client = CustomBot(command_prefix=settings.PREFIX, help_command = None, intents=intents, heartbeat_timeout=60000)
 client.run(format(settings.TOKEN))
+
+
+
+# Credit goes to Connekitius (@connekitius) for the code
+# https://github.com/connekitius
