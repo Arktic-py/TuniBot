@@ -20,7 +20,8 @@ __NOTE__: this bot depends on python 3.8 or greater
 2. Insall the requirements:
    ```bash
    python -m pip install -r requirements
-   ``` requirements.txt will be provided soon!
+   ``` 
+   requirements.txt will be provided soon!
 
 3. Provide variables:
    edit ```settings.py``` to include your discord token ans you  brainshop.io api key and id.
