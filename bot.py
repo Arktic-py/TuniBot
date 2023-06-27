@@ -55,8 +55,3 @@ class CustomBot(commands.Bot):
 
 client = CustomBot(command_prefix=settings.PREFIX, help_command = None, intents=intents, heartbeat_timeout=60000)
 client.run(format(settings.TOKEN))
-
-
-
-# Credit goes to Connekitius (@connekitius) for the code
-# https://github.com/connekitius
