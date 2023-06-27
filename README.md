@@ -50,7 +50,7 @@ In case you encounter any issues while using Tuny-bot or have suggestions for im
 
 1. **Issue Tracker**: Visit the "Issues" tab on the Tuny-bot GitHub repository and open a new issue. Describe the problem you're facing or submit your feedback, and the developers will address it promptly.
 
-2. **Contact the Developer**: You can directly reach out to the bot's developer, Arktic, on Discord by sending a message to `Arktic#1588` or `arktic0`. Arktic will be glad to assist you and answer any questions you may have.
+2. **Contact Me**: You can directly reach out to the bot's me on Discord by sending a message to `Arktic#1588` or `arktic0`. I will be glad to assist you and answer any questions you may have.
 
 We hope Tuny-bot brings joy, utility, and entertainment to your Discord server. Enjoy exploring the various features and make the most of this impressive bot!
 
