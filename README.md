@@ -1,5 +1,7 @@
 # 🧨 Tuny-bot: The Ultimate Unity Discord Bot
 
+***NOTE: MOST OF THIS GITHUB REPO IS STILL UNDER CONSTRUCTION***
+
 Welcome to Tuny-bot, the powerful and feature-rich Discord bot created as part of a school project. Tuny-bot is designed to enhance your Discord server experience with a wide range of functionalities and commands.
 
 ## Key Features of Tuny-bot
