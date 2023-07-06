@@ -1,6 +1,6 @@
 # 🧨 Tuny-bot: The Ultimate Unity Discord Bot
 
-Welcome to Tuny-bot, the powerful and feature-rich Discord bot created as part of a school project. Tuny-bot is designed to enhance your Discord server experience with a wide range of functionalities and commands. 
+Welcome to Tuny-bot, the powerful and feature-rich Discord bot created as part of a school project. Tuny-bot is designed to enhance your Discord server experience with a wide range of functionalities and commands.
 
 ## Key Features of Tuny-bot
 
@@ -34,7 +34,7 @@ If you're interested in exploring the inner workings of Tuny-bot and building it
     Please note that Tuny-bot requires Python 3.8 or a later version.
 
 3. Configuration Setup:
-    Open the `settings.py` file and provide your Discord token, brainshop.io API key, and ID. These credentials allow Tuny-bot to connect to Discord and utilize brainshop.io services.
+    Create a `.env` file in the project directory and populate it with the necessary environment variables. See the `.env` section below for details.
 
 4. Run Tuny-bot:
     Launch the main file, `bot.py`, to start Tuny-bot:
@@ -44,24 +44,11 @@ If you're interested in exploring the inner workings of Tuny-bot and building it
 
     Tuny-bot is now up and running, ready to bring excitement and functionality to your Discord server!
 
-## ❗️ Issue Reporting and Support
+## .env Configuration
 
-In case you encounter any issues while using Tuny-bot or have suggestions for improvement, there are two ways to get assistance:
+Create a `.env` file in the project directory and add the following environment variables:
 
-1. **Issue Tracker**: Visit the "Issues" tab on the Tuny-bot GitHub repository and open a new issue. Describe the problem you're facing or submit your feedback, and the developers will address it promptly.
-
-2. **Contact Me**: You can directly reach out to the bot's me on Discord by sending a message to `Arktic#1588` or `arktic0`. I will be glad to assist you and answer any questions you may have.
-
-We hope Tuny-bot brings joy, utility, and entertainment to your Discord server. Enjoy exploring the various features and make the most of this impressive bot!
-
-
-## ❔ What to do in case of an issue
-If you encounter any issues, you can open an issue on the "Issues" tab or contact me on Discord at `Arktic#1588` (or `arktic0`)."
-
-
-
-
-### License
-This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). You are free to use, modify, and distribute the code for non-commercial purposes as long as you give credit to the original author.
-
-For more details, please refer to the [LICENSE](LICENSE) file.
+TOKEN=your_discord_bot_token_here
+CHAT_API_ID=your_chat_api_id_here
+CHAT_API_KEY=your_chat_api_key_here
+FOX_API_URL=http://randomfox.ca/floof/

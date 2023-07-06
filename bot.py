@@ -6,7 +6,7 @@ from types import FunctionType
 from datetime import datetime
 from dotenv import load_dotenv
 from discord.ext import commands
-import discord, glob, os, importlib, inspect, settings
+import discord, glob, os, importlib, inspect
 load_dotenv()
 
 intents = discord.Intents.default()
@@ -53,5 +53,5 @@ class CustomBot(commands.Bot):
 				else:
 					continue
 
-client = CustomBot(command_prefix=settings.PREFIX, help_command = None, intents=intents, heartbeat_timeout=60000)
-client.run(format(settings.TOKEN))
+client = CustomBot(command_prefix=os.getenv('PREFIX'), help_command=None, intents=intents, heartbeat_timeout=60000)
+client.run(os.getenv('TOKEN'))
