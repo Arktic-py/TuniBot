@@ -14,41 +14,14 @@ Tuny-bot offers an extensive set of features to cater to your needs. While some 
 
 - **Fun and Entertainment**: Enjoy an assortment of fun features, including mini-games, trivia, and random generators. Tuny-bot ensures there's never a dull moment in your Discord server.
 
-## 🛠️ Building Tuny-bot from Source
+To get started with Tuny-bot, please visit the [Tuny-bot Wiki](wiki_link) for detailed documentation on installation, configuration, and usage instructions.
 
-If you're interested in exploring the inner workings of Tuny-bot and building it from source, follow the steps below:
+## 📖 Documentation
 
-1. Clone the Tuny-bot repository to your local machine:
-    ```
-    git clone https://github.com/Arktic-py/TuniBot.git
-    cd Tunibot
-    ```
+For detailed information on how to install, configure, and use Tuny-bot, please refer to the [Tuny-bot Wiki](https://github.com/Arktic-py/TuniBot/wiki). The wiki provides comprehensive documentation and guides to help you make the most of Tuny-bot's features.
 
-    Alternatively, you can download the bot as a zip file and extract it to your desired location.
+## ❗️ Issue Reporting and Support
 
-2. Install the required dependencies using Python's package manager, pip:
-    ```
-    python -m pip install -r requirements.txt
-    ```
+If you encounter any issues while using Tuny-bot or have any questions, you can visit the [Tuny-bot GitHub Repository](https://github.com/Arktic-py/TuniBot/issues to open an issue or seek support. Our team will be happy to assist you.
 
-    Please note that Tuny-bot requires Python 3.8 or a later version.
-
-3. Configuration Setup:
-    Create a `.env` file in the project directory and populate it with the necessary environment variables. See the `.env` section below for details.
-
-4. Run Tuny-bot:
-    Launch the main file, `bot.py`, to start Tuny-bot:
-    ```
-    python bot.py
-    ```
-
-    Tuny-bot is now up and running, ready to bring excitement and functionality to your Discord server!
-
-## .env Configuration
-
-Create a `.env` file in the project directory and add the following environment variables:
-
-TOKEN=your_discord_bot_token_here
-CHAT_API_ID=your_chat_api_id_here
-CHAT_API_KEY=your_chat_api_key_here
-FOX_API_URL=http://randomfox.ca/floof/
+We hope Tuny-bot brings joy, utility, and entertainment to your Discord server. Enjoy exploring the various features and make the most of this impressive bot!
