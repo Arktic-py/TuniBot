@@ -56,7 +56,7 @@ We hope Tuny-bot brings joy, utility, and entertainment to your Discord server. 
 
 
 ## ❔ What to do in case of an issue
-If you encounter any issues, you can open an issue on the "Issues" tab or contact me on Discord at `Arktic#1588` (or `arktic0`)." i want you to make it better and more good in the text and give it to me in the markdown format
+If you encounter any issues, you can open an issue on the "Issues" tab or contact me on Discord at `Arktic#1588` (or `arktic0`)."
 
 
 
