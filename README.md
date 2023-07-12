@@ -1,6 +1,8 @@
-# 🧨 Tuny-bot: The Ultimate Unity Discord Bot
+# 🧨 Tuny-bot: The Ultimate Discord Bot
 
-Welcome to Tuny-bot, the powerful and feature-rich Discord bot created as part of a school project. Tuny-bot is designed to enhance your Discord server experience with a wide range of functionalities and commands. 
+**NOTE: MOST OF THIS GITHUB REPO IS STILL UNDER CONSTRUCTION**
+
+Welcome to Tuny-bot, the powerful and feature-rich Discord bot created as part of a school project. Tuny-bot is designed to enhance your Discord server experience with a wide range of functionalities and commands.
 
 ## Key Features of Tuny-bot
 
@@ -14,54 +16,14 @@ Tuny-bot offers an extensive set of features to cater to your needs. While some 
 
 - **Fun and Entertainment**: Enjoy an assortment of fun features, including mini-games, trivia, and random generators. Tuny-bot ensures there's never a dull moment in your Discord server.
 
-## 🛠️ Building Tuny-bot from Source
+To get started with Tuny-bot, please visit the [Tuny-bot Wiki](wiki_link) for detailed documentation on installation, configuration, and usage instructions.
 
-If you're interested in exploring the inner workings of Tuny-bot and building it from source, follow the steps below:
+## 📖 Documentation
 
-1. Clone the Tuny-bot repository to your local machine:
-    ```
-    git clone https://github.com/Arktic-py/TuniBot.git
-    cd Tunibot
-    ```
-
-    Alternatively, you can download the bot as a zip file and extract it to your desired location.
-
-2. Install the required dependencies using Python's package manager, pip:
-    ```
-    python -m pip install -r requirements.txt
-    ```
-
-    Please note that Tuny-bot requires Python 3.8 or a later version.
-
-3. Configuration Setup:
-    Open the `settings.py` file and provide your Discord token, brainshop.io API key, and ID. These credentials allow Tuny-bot to connect to Discord and utilize brainshop.io services.
-
-4. Run Tuny-bot:
-    Launch the main file, `bot.py`, to start Tuny-bot:
-    ```
-    python bot.py
-    ```
-
-    Tuny-bot is now up and running, ready to bring excitement and functionality to your Discord server!
+For detailed information on how to install, configure, and use Tuny-bot, please refer to the [Tuny-bot Wiki](https://github.com/Arktic-py/TuniBot/wiki). The wiki provides comprehensive documentation and guides to help you make the most of Tuny-bot's features.
 
 ## ❗️ Issue Reporting and Support
 
-In case you encounter any issues while using Tuny-bot or have suggestions for improvement, there are two ways to get assistance:
-
-1. **Issue Tracker**: Visit the "Issues" tab on the Tuny-bot GitHub repository and open a new issue. Describe the problem you're facing or submit your feedback, and the developers will address it promptly.
-
-2. **Contact Me**: You can directly reach out to the bot's me on Discord by sending a message to `Arktic#1588` or `arktic0`. I will be glad to assist you and answer any questions you may have.
+If you encounter any issues while using Tuny-bot or have any questions, you can visit the [Tuny-bot GitHub Repository](https://github.com/Arktic-py/TuniBot/issues to open an issue or seek support. Our team will be happy to assist you.
 
 We hope Tuny-bot brings joy, utility, and entertainment to your Discord server. Enjoy exploring the various features and make the most of this impressive bot!
-
-
-## ❔ What to do in case of an issue
-If you encounter any issues, you can open an issue on the "Issues" tab or contact me on Discord at `Arktic#1588` (or `arktic0`)." i want you to make it better and more good in the text and give it to me in the markdown format
-
-
-
-
-### License
-This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). You are free to use, modify, and distribute the code for non-commercial purposes as long as you give credit to the original author.
-
-For more details, please refer to the [LICENSE](LICENSE) file.
