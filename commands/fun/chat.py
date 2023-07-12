@@ -1,7 +1,7 @@
 import requests
 import discord
+import os
 from discord.ext import commands
-import settings
 
 @commands.command()
 async def chat(ctx: commands.Context, *, message: str):
